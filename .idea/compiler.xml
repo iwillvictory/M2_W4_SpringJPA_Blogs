@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Spring.main" target="1.8" />
+      <module name="Spring.test" target="1.8" />
+      <module name="SpringJPA-Blo.main" target="1.8" />
+      <module name="SpringJPA-Blo.test" target="1.8" />
+      <module name="Tao_blog_co_phan_trang.main" target="1.8" />
+      <module name="Tao_blog_co_phan_trang.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
